@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Instructor 
+
+
+<table class="table table-borderd table-hover">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Img</th>
+        <th>Salary</th>
+        <th>Address</th>
+    </tr>
+   
+     <tr>
+        <td>@Model.Id</td>
+        <td>@Model.Name</td>
+        <td>@Model.Img</td>
+        <td>@Model.Salary</td>
+        <td>@Model.Address</td>
+        <td>@Model.Department.Name</td>
+
+        </tr>
+    
+</table>

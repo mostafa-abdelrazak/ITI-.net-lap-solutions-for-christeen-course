@@ -1,0 +1,22 @@
+﻿@model List<CrsResultWithNames_Color_StatusViewModel>
+
+    <table>
+    <tr>
+        <th>Name</th>
+        <th>Degree</th>
+        <th>CrsName</th>
+        <th>Passed</th>
+        <th>Color</th>
+    </tr>
+    @foreach(CrsResultWithNames_Color_StatusViewModel m in Model)
+    {
+
+        <tr>
+            <td>@m.Name</td>
+            <td>@m.Degree</td>
+            <td>@m.CrsName</td>
+            <td>@m.Passed</td>
+            <td>@m.Color</td>
+        </tr>
+    }
+</table>

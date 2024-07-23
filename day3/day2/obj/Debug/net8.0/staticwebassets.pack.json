@@ -1,0 +1,509 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\day2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\day2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\css\\bootsnav.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootsnav.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\css\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\css\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\css\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\css\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\linearicons.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\blog\\b1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\blog\\b2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\blog\\b3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\clients\\c1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\c1.png"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\clients\\c2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\c2.png"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\clients\\c3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\clients\\c4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\c4.png"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\counter\\counter-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\counter\\counter-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\explore\\e1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\explore\\e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\explore\\e2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\explore\\e2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\explore\\e3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\explore\\e3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\explore\\e4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\explore\\e4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\explore\\e5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\explore\\e5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\explore\\e6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\explore\\e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\explore\\person.png",
+      "PackagePath": "staticwebassets\\assets\\images\\explore\\person.png"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\images\\welcome-hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\welcome-hero\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\img\\controls.png",
+      "PackagePath": "staticwebassets\\assets\\img\\controls.png"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\js\\bootsnav.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootsnav.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\assets\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\logo\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day3\\day2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.day2.props",
+      "PackagePath": "build\\day2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.day2.props",
+      "PackagePath": "buildMultiTargeting\\day2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.day2.props",
+      "PackagePath": "buildTransitive\\day2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.day2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

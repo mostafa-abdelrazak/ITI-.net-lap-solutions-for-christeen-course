@@ -1,0 +1,30 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<Course>
+
+
+<a  asp-action="new" asp-controller="Course" class="btn btn-danger">create new</a>
+<table class="table table-borderd table-hover">
+        <tr>
+            <th>Name</th>
+            <th>Min Degree</th>
+            <th>Degree</th>
+        </tr>
+
+        @foreach ( Course c in Model )
+        {
+
+            <tr>
+
+                <td>@c.Name</td>
+                <td>@c.MinDegree</td>
+                <td>@c.Degree</td>
+                <td><a href="/course/Detail/@c.Id">Deatils</a></td>
+            </tr>
+        }
+       
+</table>

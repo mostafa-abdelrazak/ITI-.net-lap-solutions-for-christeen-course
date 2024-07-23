@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<Instructor>
+
+
+<table class="table table-borderd table-hover">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Img</th>
+        <th>Salary</th>
+        <th>Address</th>
+        
+    </tr>
+    @foreach (Instructor item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Img</td>
+            <td>@item.Salary</td>
+            <td>@item.Address</td>
+            <td><a href="/instructor/Detail/@item.Id">Deatils</a></td>
+        </tr>
+    }
+</table>

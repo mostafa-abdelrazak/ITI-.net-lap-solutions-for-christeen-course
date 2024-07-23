@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|c:\\users\\mosta\\desktop\\code\\.net christen course\\day2\\day2\\day2\\models\\crsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|solutionrelative:day2\\models\\crsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|c:\\users\\mosta\\desktop\\code\\.net christen course\\day2\\day2\\day2\\models\\dbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|solutionrelative:day2\\models\\dbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|c:\\users\\mosta\\desktop\\code\\.net christen course\\day2\\day2\\day2\\migrations\\20240505104822_update extra class models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|solutionrelative:day2\\migrations\\20240505104822_update extra class models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|c:\\users\\mosta\\desktop\\code\\.net christen course\\day2\\day2\\day2\\migrations\\20240505103931_add extra class models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|solutionrelative:day2\\migrations\\20240505103931_add extra class models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|c:\\users\\mosta\\desktop\\code\\.net christen course\\day2\\day2\\day2\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|solutionrelative:day2\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|c:\\users\\mosta\\desktop\\code\\.net christen course\\day2\\day2\\day2\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|solutionrelative:day2\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|c:\\users\\mosta\\desktop\\code\\.net christen course\\day2\\day2\\day2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|solutionrelative:day2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|c:\\users\\mosta\\desktop\\code\\.net christen course\\day2\\day2\\day2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|solutionrelative:day2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|c:\\users\\mosta\\desktop\\code\\.net christen course\\day2\\day2\\day2\\migrations\\20240424104039_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|solutionrelative:day2\\migrations\\20240424104039_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|c:\\users\\mosta\\desktop\\code\\.net christen course\\day2\\day2\\day2\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|solutionrelative:day2\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|c:\\users\\mosta\\desktop\\code\\.net christen course\\day2\\day2\\day2\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|solutionrelative:day2\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|c:\\users\\mosta\\desktop\\code\\.net christen course\\day2\\day2\\day2\\views\\instructor\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5EA3B30-638C-4D69-B38D-69A77BA1C184}|day2\\day2.csproj|solutionrelative:day2\\views\\instructor\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240505104822_update extra class models.cs",
+              "DocumentMoniker": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Migrations\\20240505104822_update extra class models.cs",
+              "RelativeDocumentMoniker": "day2\\Migrations\\20240505104822_update extra class models.cs",
+              "ToolTip": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Migrations\\20240505104822_update extra class models.cs",
+              "RelativeToolTip": "day2\\Migrations\\20240505104822_update extra class models.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvx4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T10:48:22.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240505103931_add extra class models.cs",
+              "DocumentMoniker": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Migrations\\20240505103931_add extra class models.cs",
+              "RelativeDocumentMoniker": "day2\\Migrations\\20240505103931_add extra class models.cs",
+              "ToolTip": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Migrations\\20240505103931_add extra class models.cs",
+              "RelativeToolTip": "day2\\Migrations\\20240505103931_add extra class models.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAcwG4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T10:39:31.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrsResult.cs",
+              "DocumentMoniker": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Models\\CrsResult.cs",
+              "RelativeDocumentMoniker": "day2\\Models\\CrsResult.cs",
+              "ToolTip": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Models\\CrsResult.cs",
+              "RelativeToolTip": "day2\\Models\\CrsResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:15:45.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Models\\Trainee.cs",
+              "RelativeDocumentMoniker": "day2\\Models\\Trainee.cs",
+              "ToolTip": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Models\\Trainee.cs",
+              "RelativeToolTip": "day2\\Models\\Trainee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:18:49.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "day2\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Models\\Course.cs",
+              "RelativeToolTip": "day2\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:54:24.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240424104039_init.cs",
+              "DocumentMoniker": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Migrations\\20240424104039_init.cs",
+              "RelativeDocumentMoniker": "day2\\Migrations\\20240424104039_init.cs",
+              "ToolTip": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Migrations\\20240424104039_init.cs",
+              "RelativeToolTip": "day2\\Migrations\\20240424104039_init.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA2wAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:40:40.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Views\\Instructor\\Index.cshtml",
+              "RelativeDocumentMoniker": "day2\\Views\\Instructor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Views\\Instructor\\Index.cshtml",
+              "RelativeToolTip": "day2\\Views\\Instructor\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T09:25:40.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "day2\\Controllers\\InstructorController.cs",
+              "ToolTip": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "day2\\Controllers\\InstructorController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:18:54.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbSet.cs",
+              "DocumentMoniker": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Models\\DbSet.cs",
+              "RelativeDocumentMoniker": "day2\\Models\\DbSet.cs",
+              "ToolTip": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Models\\DbSet.cs",
+              "RelativeToolTip": "day2\\Models\\DbSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:51:08.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Views\\Instructor\\Detail.cshtml",
+              "RelativeDocumentMoniker": "day2\\Views\\Instructor\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Views\\Instructor\\Detail.cshtml",
+              "RelativeToolTip": "day2\\Views\\Instructor\\Detail.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T09:33:17.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "day2\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Models\\Instructor.cs",
+              "RelativeToolTip": "day2\\Models\\Instructor.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:46:46.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "day2\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\mosta\\Desktop\\Code\\.net christen course\\day2\\day2\\day2\\Models\\Department.cs",
+              "RelativeToolTip": "day2\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:45:39.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

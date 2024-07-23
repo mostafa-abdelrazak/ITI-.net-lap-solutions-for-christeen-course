@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<Trainee>
+
+
+
+    <table>
+        <tr>
+            <th>ID</th>
+        <th>Name</th>
+        </tr>
+    @foreach(Trainee t in Model)
+    {
+        <tr>
+            <td>@t.Id</td>
+            <td>@t.Name</td>
+            <td><a href="/Trainee/Detail/@t.Id" class="btn btn-info">Details</a></td>
+        </tr>
+    }
+    
+</table>
