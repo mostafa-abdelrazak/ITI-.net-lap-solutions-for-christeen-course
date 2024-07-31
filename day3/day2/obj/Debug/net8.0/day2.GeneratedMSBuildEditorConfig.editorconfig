@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\mosta\Desktop\Code\.net christen course\day3\day2
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/mosta/Desktop/Code/.net christen course/day3/day2/Views/Course/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mosta/Desktop/Code/.net christen course/day3/day2/Views/Course/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

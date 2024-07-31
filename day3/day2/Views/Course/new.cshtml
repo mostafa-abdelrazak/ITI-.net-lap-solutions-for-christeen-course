@@ -4,35 +4,46 @@
     SelectList DeptItems = new SelectList(ViewBag.Departments, "Id", "Name");
 }
 
-    <h1 class="mb-4">Add Course</h1>
-        
-    <div class="text-danger" asp-validation-summary="All"></div>
+<h1 class="mb-4">Add Course</h1>
 
-    <form asp-action="new" asp-controller="Course" method="post">
-       
-        <div class="form-group">
+<div class="text-danger" asp-validation-summary="All"></div>
+
+<form asp-action="new" asp-controller="Course" method="post">
+
+    <div class="form-group">
         <label asp-for="Name"></label>
         <input type="text" asp-for="Name" class="form-control">
-        
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
 
-        <div class="form-group">
+
+    <div class="form-group">
         <label asp-for="MinDegree"></label>
-            <input type="text" asp-for="MinDegree" class="form-control">
-        </div>
+        <input type="text" asp-for="MinDegree" class="form-control">
+        <span asp-validation-for="MinDegree" class="text-danger"></span>
+    </div>
 
-        <div class="form-group">
+    <div class="form-group">
         <label asp-for="Degree"></label>
-            <input type="text" asp-for="Degree" class="form-control">
-        </div>
+        <input type="text" asp-for="Degree" class="form-control">
+        <span asp-validation-for="Degree" class="text-danger"></span>
+    </div>
 
     <div class="form-group">
         <label asp-for="Dept_id"></label>
-            <select asp-items="DeptItems" asp-for="Dept_id" class="form-control">
-            
-            <option value="0">Select Department</option> 
-</select>
+        <select asp-items="DeptItems" asp-for="Dept_id" class="form-control">
+
+            <option value="0">Select Department</option>
+        </select>
+        <span asp-validation-for="Dept_id" class="text-danger"></span>
+    </div>
 
 
 
-            <button type="submit" class="btn btn-primary form-control ">Submit</button>
-    </form>
+    <button type="submit" class="btn btn-primary form-control ">Submit</button>
+</form>
+@section Scripts {
+    @*<script src="~/lib/jquery/dist/jquery.min.js"></script>*@
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

@@ -18,6 +18,22 @@ namespace day2.Controllers
             Course course = DB.Courses.FirstOrDefault(x => x.Id == Id);
             return View(course);
         }
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            Course s = DB.Courses.FirstOrDefault(x => x.Id == id);
+            return View(s);
+        }
+        [HttpPost]
+        public IActionResult Delete(Course s)
+        {
+
+
+            DB.Courses.Remove(s);
+            DB.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
 
         [HttpGet]
         public IActionResult New()
@@ -27,6 +43,7 @@ namespace day2.Controllers
             return View();
         }
 
+
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult New(Course s)
@@ -34,9 +51,16 @@ namespace day2.Controllers
 
             if (ModelState.IsValid)
             {
-                DB.Courses.Add(s);
-                DB.SaveChanges();
-                return RedirectToAction("Index", "Course");
+                if (s.Dept_id != 0)
+                {
+                    DB.Courses.Add(s);
+                    DB.SaveChanges();
+                    return RedirectToAction("Index", "Course");
+                }
+                else
+                {
+                    ModelState.AddModelError("", "Select Department");
+                }
             }
             List<Department> depts = DB.Departments.ToList();
             ViewBag.Departments = depts;
@@ -58,6 +82,13 @@ namespace day2.Controllers
         {
             string s = HttpContext.Session.GetString("mostafa");
             return Content(s);
+        }
+
+        public IActionResult CheckDegree(int MinDegree, int Degree)
+        {
+            if (MinDegree < Degree)
+                return Json(true);
+            return Json(false);
         }
     }
 }

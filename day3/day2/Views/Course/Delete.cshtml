@@ -1,0 +1,21 @@
+﻿@model Course
+@{
+    var routeData = new Dictionary<string, string>
+    {
+        {"course", Model.ToString()}
+
+    };
+}
+
+
+<h1>Are you sure you want to delete @Model.Name </h1>
+
+<form asp-action="Delete"  method="post" asp>
+    <input type="hidden" asp-for="@Model.Id" />
+    
+    <button class="btn btn-danger" type="submit">Confirm Delete</button>
+</form>
+
+
+@* <a class="btn btn-danger" method="post" asp-action="Delete" asp-all-route-data="routeData">Delete</a> *@
+<a class="btn btn-success" asp-action="index">Cancel</a>

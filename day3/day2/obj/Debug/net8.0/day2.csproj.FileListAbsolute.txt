@@ -386,3 +386,4 @@ C:\Users\mosta\Desktop\Code\.net christen course\day3\day2\bin\Debug\net8.0\runt
 C:\Users\mosta\Desktop\Code\.net christen course\day3\day2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\mosta\Desktop\Code\.net christen course\day3\day2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\mosta\Desktop\Code\.net christen course\day3\day2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\mosta\Desktop\Code\.net christen course\day3\day2\obj\Debug\net8.0\day2.sourcelink.json
