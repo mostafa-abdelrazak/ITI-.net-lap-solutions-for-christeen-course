@@ -1,27 +1,37 @@
 ﻿using day2.Models;
+using day2.repositories;
 using Microsoft.AspNetCore.Mvc;
 
 namespace day2.Controllers
 {
     public class CourseController : Controller
     {
-        DbSet DB = new DbSet();
+        //DbSet DB = new DbSet();
+        ICourseRepository courseRepository;
+        IDepartmentRepository departmentRepository;
+        public CourseController(IDepartmentRepository _departmentRepository, ICourseRepository _courseRepository)
+        {
+
+            this.departmentRepository = _departmentRepository;
+            this.courseRepository = _courseRepository;
+
+        }
         public IActionResult Index()
         {
 
-            List<Course> courses = DB.Courses.ToList();
+            List<Course> courses = courseRepository.GetAll();//DB.Courses.ToList();
 
             return View(courses);
         }
         public IActionResult Detail(int Id)
         {
-            Course course = DB.Courses.FirstOrDefault(x => x.Id == Id);
+            Course course = courseRepository.Detail(Id);//DB.Courses.FirstOrDefault(x => x.Id == Id);
             return View(course);
         }
         [HttpGet]
         public IActionResult Delete(int id)
         {
-            Course s = DB.Courses.FirstOrDefault(x => x.Id == id);
+            Course s = courseRepository.Detail(id);//DB.Courses.FirstOrDefault(x => x.Id == id);
             return View(s);
         }
         [HttpPost]
@@ -29,8 +39,9 @@ namespace day2.Controllers
         {
 
 
-            DB.Courses.Remove(s);
-            DB.SaveChanges();
+            // DB.Courses.Remove(s);
+            //DB.SaveChanges();
+            courseRepository.Delete(s.Id);
 
             return RedirectToAction("Index");
         }
@@ -38,7 +49,7 @@ namespace day2.Controllers
         [HttpGet]
         public IActionResult New()
         {
-            List<Department> depts = DB.Departments.ToList();
+            List<Department> depts = departmentRepository.GetAll();//DB.Departments.ToList();
             ViewBag.Departments = depts;
             return View();
         }
@@ -53,8 +64,9 @@ namespace day2.Controllers
             {
                 if (s.Dept_id != 0)
                 {
-                    DB.Courses.Add(s);
-                    DB.SaveChanges();
+                    //DB.Courses.Add(s);
+                    //DB.SaveChanges();
+                    courseRepository.New(s);
                     return RedirectToAction("Index", "Course");
                 }
                 else
@@ -62,7 +74,7 @@ namespace day2.Controllers
                     ModelState.AddModelError("", "Select Department");
                 }
             }
-            List<Department> depts = DB.Departments.ToList();
+            List<Department> depts = departmentRepository.GetAll();//DB.Departments.ToList();
             ViewBag.Departments = depts;
             return View("new", s);
         }

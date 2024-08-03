@@ -1,3 +1,8 @@
+using day2.Models;
+using day2.repositories;
+using Microsoft.EntityFrameworkCore;
+
+
 namespace day2
 {
     public class Program
@@ -17,6 +22,9 @@ namespace day2
                 options.Cookie.HttpOnly = true;
                 options.Cookie.IsEssential = true;
             });
+            builder.Services.AddDbContext<DbSet>(optionsBuilder => { optionsBuilder.UseSqlServer("Server=. ;Database = ITIChristenMVC;Trusted_Connection = true ; TrustServerCertificate = true "); });
+            builder.Services.AddScoped<ICourseRepository, CourseRepository>();
+            builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
 
             var app = builder.Build();
 
